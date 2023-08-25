@@ -579,7 +579,7 @@
                     font-family: 'Russo One';
                     font-weight: 400;
                     font-size: 72px;
-                    text-transform: uppercase;
+                    text-transform: lowercase !important;
                     letter-spacing: 3.5px;
                     background: linear-gradient(90deg, #3DBFBB 0%, #06976c 100%);
                     -webkit-background-clip: text;
