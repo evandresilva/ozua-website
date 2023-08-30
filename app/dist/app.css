@@ -1726,7 +1726,7 @@ h3, h5 {
 
 .banner-top.style-3 {
   padding: 174px 0 99px;
-  background: url("./../../assets/images/background/banner-music.jpg") no-repeat;
+  background: url("/assets/images/background/bg-1.jpg") no-repeat;
   background-size: cover;
   position: relative;
 }
