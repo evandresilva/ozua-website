@@ -1433,10 +1433,10 @@ h3, h5 {
   font-weight: 700;
 }
 .banner-top.style-1 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .banner-top.style-1 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-1 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
   content: "Mins";
@@ -1694,16 +1694,16 @@ h3, h5 {
   text-transform: uppercase;
 }
 .banner-top.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "days";
+  content: "Dias";
 }
 .banner-top.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .banner-top.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "SECONDS";
+  content: "Segundos";
 }
 @media only screen and (max-width: 1200px) {
   .banner-top.style-2 .banner-top__sale {
@@ -1852,16 +1852,16 @@ h3, h5 {
   font-weight: 400;
 }
 .banner-top.style-3 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .banner-top.style-3 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-3 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .banner-top.style-3 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "Seconds";
+  content: "Segundos";
 }
 .banner-top.style-3 .banner-top__sale .sale-content .countdown__timer .countdown__item:last-child::before {
   display: none;
@@ -2004,16 +2004,16 @@ h3, h5 {
   color: rgba(255, 255, 255, 0.6);
 }
 .banner-top.style-4 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .banner-top.style-4 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-4 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .banner-top.style-4 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "Seconds";
+  content: "Segundos";
 }
 @media only screen and (max-width: 1200px) {
   .banner-top.style-4 .banner-top__sale {
@@ -2177,16 +2177,16 @@ h3, h5 {
   color: #fff;
 }
 .banner-top.style-6 .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .banner-top.style-6 .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-6 .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .banner-top.style-6 .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "Seconds";
+  content: "Segundos";
 }
 .banner-top.style-6 .banner-top__sale .token-bar {
   margin-top: 9px;
@@ -2485,16 +2485,16 @@ h3, h5 {
   font-weight: 400;
 }
 .banner-top.style-7 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .banner-top.style-7 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .banner-top.style-7 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .banner-top.style-7 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "Seconds";
+  content: "Segundos";
 }
 @media only screen and (max-width: 1200px) {
   .banner-top.style-7 .banner-top__sale {
@@ -2595,10 +2595,10 @@ h3, h5 {
   color: #fff;
 }
 .home-defi-4 .banner-top__main .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .home-defi-4 .banner-top__main .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .home-defi-4 .banner-top__main .banner-top__sale .js-countdown .countdown__timer .countdown__item:nth-child(3)::after {
   content: "Mins";
@@ -8719,10 +8719,10 @@ img.mfp-img {
   letter-spacing: 1px;
 }
 .token-details.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .token-details.style-2 .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "Seconds";
+  content: "Segundos";
 }
 .token-details.style-2 .banner-top__sale .sale-content .token-bar {
   margin-top: 71px;
@@ -8839,10 +8839,10 @@ img.mfp-img {
   font-weight: 700;
 }
 .token-details.style-2 .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "Days";
+  content: "Dias";
 }
 .token-details.style-2 .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .token-details.style-2 .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
   content: "Mins";
@@ -10331,16 +10331,16 @@ img.mfp-img {
   color: rgba(255, 255, 255, 0.6);
 }
 .dashboard .dashboard__content .dashboard__main .banner .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(1)::after {
-  content: "days";
+  content: "Dias";
 }
 .dashboard .dashboard__content .dashboard__main .banner .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(2)::after {
-  content: "Hours";
+  content: "Horas";
 }
 .dashboard .dashboard__content .dashboard__main .banner .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(3)::after {
-  content: "Minutes";
+  content: "Minutos";
 }
 .dashboard .dashboard__content .dashboard__main .banner .banner-top__sale .sale-content .countdown__timer .countdown__item:nth-child(4)::after {
-  content: "SECONDS";
+  content: "Segundos";
 }
 @media only screen and (max-width: 1200px) {
   .dashboard .dashboard__content .dashboard__main .banner .banner-top__sale {
@@ -10595,7 +10595,7 @@ img.mfp-img {
   padding: 0 0 153px;
 }
 .home-nft .join-now__main {
-  background: url("./../../assets/images/background/bg-join.png") no-repeat;
+  background: url("/assets/images/join-us/1.jpg") no-repeat;
   background-size: contain;
   background-position: top center;
   padding: 61px 100px;
@@ -11364,7 +11364,7 @@ img.mfp-img {
 }
 .home-music .join-now.style-3 {
   padding: 80px 0;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("./../../assets/images/background/bg-join-music.jpg");
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/assets/images/join-us/1.jpg");
   background-size: cover;
   position: relative;
 }
