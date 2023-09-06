@@ -1318,3 +1318,7 @@
   display: block;
   margin: 0 auto; /* Center the image horizontally */
 }
+
+.circular-image{
+  border-radius:30px;
+}
