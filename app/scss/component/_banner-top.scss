@@ -493,10 +493,10 @@
         height: 100%;
     }
     &::before {
-        background: linear-gradient(0.01deg, #080D14 0%, rgba(8, 13, 20, 0.25) 22%);
+        background: linear-gradient(0.01deg, #12b682 0%, #d1ddd9 22%);
     }
     &::after {
-        background: linear-gradient(89.95deg, #00140e 0.03%, rgba(7, 10, 15, 0.4) 93.34%);
+        background: linear-gradient(89.95deg, #06ac7a 0.03%, #d1ddd9 93.34%);
     }
     .container {
         position: relative;
@@ -515,7 +515,7 @@
 
             span {
                 -webkit-text-stroke-width: 2px;
-                -webkit-text-stroke-color: #00b585;
+                -webkit-text-stroke-color: #d1ddd9;
                 -webkit-text-fill-color: rgb(0 0 0/0%);
             }
         }

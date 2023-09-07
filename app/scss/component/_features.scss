@@ -50,7 +50,7 @@
         border-radius: 50%;
         @include flex(center,center);
         margin: 0 auto;
-        background: #1a183d;
+        background: #99c9a2;
         background-clip: padding-box;
         transition: 0.3s all ease-in-out;
         span {
@@ -178,7 +178,7 @@
     }
 
     &:hover {
-        background: rgba(46, 114, 210, 0.2);
+        background: #99c9a2;
         &::before {
             opacity: 1;
         }
@@ -209,7 +209,7 @@
 }
 
 .features-box-5 {
-    background: #fff;
+    background: #fff;s
     border-radius: 20px;
     padding: 40px 40px 40px;
 
@@ -218,7 +218,7 @@
         width: 72px;
         height: 72px;
         border-radius: 8px;
-        border: 1px solid #13316B;
+        border: 1px solid #99c9a2;
         background: transparent;
         
         position: relative;
