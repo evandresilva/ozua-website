@@ -12849,6 +12849,15 @@ img.mfp-img {
   font-size: 20px;
   margin-top: 23px;
 }
+a{
+    text-decoration:none !important;
+}
+.image-fixed {
+  width: 567px;
+  height: 567px;
+  object-fit: cover;
+}
+
 @media only screen and (max-width: 1024px) {
   .page-title .content {
     padding: 0 70px;
